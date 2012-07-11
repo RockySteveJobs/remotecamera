@@ -19,7 +19,7 @@ extern "C" {
 #define VIDEO_HEIGHT 240
 #define VIDEO_FPS 10.0
 
-#define TARGET_IP "127.0.0.1"
+#define TARGET_IP "localhost"
 #define TARGET_PORT 3020
 
 int main (int argc, char **argv)
