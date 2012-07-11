@@ -1,10 +1,10 @@
 #summary One-sentence summary of this page.
 #labels x264
 ==x264结构体分析==
-=x264_t=
-see:[http://izhanghongbo.blogspot.com/2012/07/html-template.html]
-=x264_param_t=
-=x264_picture_t=
+===x264_t===
+see:http://izhanghongbo.blogspot.com/2012/07/html-template.html
+===x264_param_t===
+===x264_picture_t===
 
 
 = Details =
