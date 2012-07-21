@@ -154,7 +154,7 @@ void *capture_open (const char *dev_name, int t_width, int t_height, PixelFormat
 	case V4L2_PIX_FMT_MJPEG:
 		// pixfmt = PIX_FMT_YUVJ422P;
 		// 使用 mjpeg 应该能够满足 640x480x25, 但是需要解码 mjpeg
-
+		
 		break;
 	}
 
